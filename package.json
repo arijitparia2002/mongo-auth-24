@@ -1,0 +1,14 @@
+{
+  "name": "mongo-auth-24",
+  "version": "1.0.0",
+  "description": "Exploring GitHub code spaces by creating a auth backend using mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
